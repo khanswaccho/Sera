@@ -1,2 +1,2 @@
 # Sera
-A socia; media app like instagram
+A social media app like instagram
